@@ -1,0 +1,30 @@
+#background
+{
+    background-color: rgb(131, 129, 199);
+}
+
+h1
+{
+    font-family:Georgia;
+    color: rgb(86, 47, 126);
+}
+
+.custom
+{
+    font-size: 25px;
+    color: rgb(188, 148, 205);
+    font-family: Times;
+    font-weight: bold;
+}
+
+#show_sketch
+{
+    font-size: 15px;
+}
+
+
+canvas{
+    padding-left: 200px;
+    width: 500;
+    height:500;
+}
